@@ -1,0 +1,1 @@
+mongodb+srv://Amazona:habeeb_/20222023@cluster0.26dts4l.mongodb.net/Amazona?retryWrites=true&w=majority
