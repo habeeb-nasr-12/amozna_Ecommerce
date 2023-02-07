@@ -17,5 +17,8 @@
     "url": "https://github.com/habeeb-nasr-12/amozna_Ecommerce/issues"
   },
   "homepage": "https://github.com/habeeb-nasr-12/amozna_Ecommerce#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "heroku": "^7.68.0"
+  }
 }
