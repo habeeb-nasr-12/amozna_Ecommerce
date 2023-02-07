@@ -49,6 +49,7 @@ const router = createHashRouter( [
   {path: "/orderhistory",element : <Orderhistory/>},
  {path: '/profile',element: <UserProfile/>},
   {path: "/order/:id",element : <Order/>},
+  {path: "*",element : <h2>4 0 4  ,not found page</h2>},
   
  ]
  }
