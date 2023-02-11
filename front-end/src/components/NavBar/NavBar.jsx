@@ -40,7 +40,7 @@ function signoutHandler (){
        <Container>
        <LinkContainer to='/' >
     <Navbar.Brand>  
-    amazona
+    Amazona
     </Navbar.Brand>
     </LinkContainer>
     <Nav className='me-auto'>
