@@ -1,24 +1,13 @@
 {
-  "name": "amazona",
+  "name": "amozna_ecommerce",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "cd backend && npm install  && cd ../front-end && npm install && npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node backend/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/habeeb-nasr-12/amozna_Ecommerce.git"
+    "build": "cd backend && npm install  && cd ../front-end && npm install && npm run build"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/habeeb-nasr-12/amozna_Ecommerce/issues"
-  },
-  "homepage": "https://github.com/habeeb-nasr-12/amozna_Ecommerce#readme",
-  "description": "",
-  "dependencies": {
-    "heroku": "^7.68.0"
-  }
+  "description": ""
 }
